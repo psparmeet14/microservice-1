@@ -9,5 +9,5 @@ Dependencies:
 5. Config Server (Central management for configuration via Git, SVN, or HashiCorp Vault)
 
 Ports:
-limits-microservice : 8080, 8081,....
-spring-cloud-config-server : 8888
+1. limits-microservice : 8080, 8081, ....
+2. spring-cloud-config-server : 8888
